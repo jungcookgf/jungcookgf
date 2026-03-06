@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
 I'm a Brazilian developer learning how to code and build cute little projects.
 
@@ -17,12 +17,6 @@ Coding while listening to BTS
 
 ---
 
-## 🖤 Why I'm learning to code
-I started learning programming because I love the idea of turning my ideas into real projects.  
-Right now I'm focusing on learning step by step and building small things to improve every day.
-
----
-
 ## Fun Facts
 - I love cute design and aesthetic projects  
 - BTS is my favorite band  
@@ -35,5 +29,5 @@ Right now I'm focusing on learning step by step and building small things to imp
 - Work in tech in the future
 
 ---
-
+⁺‧₊˚ ཐི⋆♱⋆ཋྀ ˚₊‧⁺
 🖤 Thanks for visiting my profile!
