@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jungcookgf/jungcookgf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Brazilian developer learning how to code and build cute little projects.
 
-Here are some ideas to get you started:
+English is my second language  
+Currently learning programming and exploring new technologies  
+I love creating fun and aesthetic projects while I learn  
+Coding while listening to BTS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently
+- HTML
+- CSS
+- JavaScript
+- Python
+
+---
+
+## 🖤 Why I'm learning to code
+I started learning programming because I love the idea of turning my ideas into real projects.  
+Right now I'm focusing on learning step by step and building small things to improve every day.
+
+---
+
+## Fun Facts
+- I love cute design and aesthetic projects  
+- BTS is my favorite band  
+
+---
+
+## Goals
+- Build more personal projects
+- Improve my coding skills
+- Work in tech in the future
+
+---
+
+🖤 Thanks for visiting my profile!
