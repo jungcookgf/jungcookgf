@@ -1,11 +1,9 @@
 # Hi there *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
-I'm a Brazilian developer learning how to code and build cute little projects.
-
 English is my second language  
 Currently learning programming and exploring new technologies  
 I love creating fun and aesthetic projects while I learn  
-Coding while listening to BTS
+Coding listening to BTS
 
 ---
 
